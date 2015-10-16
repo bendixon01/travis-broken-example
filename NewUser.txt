@@ -1,0 +1,3 @@
+$ git add - bendixon01
+$ git commit -m 'Testing Travis CI'
+$ git push
